@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  color: white;
+  background-image: url("images/background-destination-desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Barlow", sans-serif;
+}
+a {
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 2.7px;
+  color: #d0d6f9;
+  padding-right: 36px;
+}
+.navigation {
+  position: absolute;
+  width: 382px;
+  height: 34px;
+  left: 166.5px;
+  top: 212px;
+}
+.description {
+  position: absolute;
+  width: 445px;
+  height: 472px;
+  left: 832px;
+  top: 310px;
+}
+.img {
+  position: absolute;
+  width: 445px;
+  height: 445px;
+  left: 230px;
+  top: 343px;
+}
+h1 {
+  font-family: "Bellefair", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100px;
+  line-height: 115px;
+  margin: 18px auto 26px;
+}
+h3 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 34px;
+  letter-spacing: 0.725px;
+  margin-bottom: 80px;
+  color: #ffffff;
+}
+p {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  color: #d0d6f9;
+}
+hr {
+  margin: 50px auto 30px;
+  color: #383b4b;
+}
+table {
+  width: 100%;
+}
+thead {
+  color: #d0d6f9;
+  font-family: Barlow Condensed;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 2.3625px;
+}
+tbody {
+  font-family: Bellefair;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 32px;
+}
+td {
+  padding-bottom: 10px;
+}

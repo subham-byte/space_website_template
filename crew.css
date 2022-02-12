@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  color: white;
+  background-image: url("images/background-crew-desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img {
+  width: 568.07px;
+  height: 712px;
+  position: absolute;
+  bottom: 0;
+  right: 137px;
+}
+h3 {
+  position: absolute;
+  width: 286px;
+  height: 34px;
+  left: 166.5px;
+  top: 212px;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 34px;
+}
+.description {
+  position: absolute;
+  left: 166.5px;
+  top: 400px;
+  width: 25%;
+}
+span{
+    opacity: 0.5;
+}
+h2 {
+  font-family: Bellefair;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+h1 {
+  font-family: Bellefair;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 39px;
+  line-height: 64px;
+}
+p{
+    font-family: Barlow;
+    line-height: 25px;
+    font-size: 18px;
+    color: #D0D6F9;
+    font-style: normal;
+    font-weight: normal;
+}
